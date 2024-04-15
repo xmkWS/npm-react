@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'Poppins';
+  src: url(../public/fonts/Poppins-Regular.ttf);
+}
+@font-face {
+  font-family: 'Poppins Semi';
+  src: url(../public/fonts/Poppins-SemiBold.ttf);
+}
+@font-face {
+  font-family: 'Poppins Bold';
+  src: url(../public/fonts/Poppins-Bold.ttf);
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+  color: #030303;
+}
+
+html{
+  font-family: 'Poppins';
+  background: #cacaca;
+  color: #030303;
+}

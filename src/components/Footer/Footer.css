@@ -1,0 +1,21 @@
+.footer{
+    margin-top: 220px;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 8px;
+    gap: 200px;
+}
+.nav_footer{
+    text-align: end;
+    display: flex;
+    flex-direction: column;
+    gap:24px;
+}
+
+.nav_footer_h{
+    font-size: 16px;
+    font-weight: 700;
+}
+.nav_footer>a{
+    color:black;
+}
